@@ -1,0 +1,13 @@
+{
+  "name": "handapi",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "01-整体结构.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
